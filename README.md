@@ -12,4 +12,4 @@ Also mentioned at my session was how to configure the perfect #badass WSL enviro
 
 [Badass terminal: WSL Edition!](#)
 
-[Dotfiles Github](https://github.com/jldeen/dotfiles.git)
+[Dotfiles Github](https://github.com/jldeen/dotfiles/tree/wsl)
